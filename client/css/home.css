@@ -1,0 +1,12 @@
+.card{
+    width: 50%;
+}
+.card img{
+    width: 100%;
+}
+.card-title{
+    text-align: center;
+    font-weight: bolder;
+    background-color: lightgray;
+    padding: 2%;
+}
